@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CONTROL1607/1.0.0": {
+        "runtime": {
+          "CONTROL1607.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CONTROL1607/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

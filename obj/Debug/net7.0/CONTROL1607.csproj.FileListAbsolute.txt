@@ -1,0 +1,14 @@
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/bin/Debug/net7.0/CONTROL1607
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/bin/Debug/net7.0/CONTROL1607.deps.json
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/bin/Debug/net7.0/CONTROL1607.runtimeconfig.json
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/bin/Debug/net7.0/CONTROL1607.dll
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/bin/Debug/net7.0/CONTROL1607.pdb
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/CONTROL1607.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/CONTROL1607.AssemblyInfoInputs.cache
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/CONTROL1607.AssemblyInfo.cs
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/CONTROL1607.csproj.CoreCompileInputs.cache
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/CONTROL1607.dll
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/refint/CONTROL1607.dll
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/CONTROL1607.pdb
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/CONTROL1607.genruntimeconfig.cache
+/Users/alekseygraunov/Documents/GeekBrain/CONTROL1607/CONTROL1607/obj/Debug/net7.0/ref/CONTROL1607.dll
